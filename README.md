@@ -1,14 +1,13 @@
-# Hi there, My name is Hridoy Roy 👋
-
+# Hi there, I am Hridoy Roy 👋
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on php and Laravel
-- 🌱 I’m currently learning php and Laravel
+- 🔭 I’m currently working on php, Laravel and VueJS
+- 🌱 I’m currently learning VueJS, Vuex
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: hri
+- 📫 How to reach me: hridoyroy.cse@gmail.com 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I love to see Cartoon;
 
